@@ -24,6 +24,9 @@ Run moc
 mocp
 ```
 Press Shift + e (capital E) to toggle EQ state between on and off
+
 Press e (small e) to refresh all EQ sets if they got changed
+
 Press K to select previous equalizer-preset
+
 Press k to select next equalizer-preset
