@@ -1,26 +1,21 @@
 mocp-eqsets
 ===========
-
 My set of moc (console music player) eqsets
-For everyone who loves listening to music using mocp
+
+For everyone who loves listening music using mocp
 
 Instalation
 ===========
 ```bash
 cd ~/.moc/
-
-#If you haven't got any eqsets for moc so far you need to type:
-mkdir eqsets
-
-git clone https://github.com/antiquo/mocp-eqsets.git
-cd mocp-eqsets
-mv * ../eqsets/
+git clone https://github.com/the-godfather/mocp-eqsets.git eqsets
 ```
 
 Usage
 ===========
-Run moc
+
 ```bash
+#Run moc
 mocp
 ```
 Press Shift + e (capital E) to toggle EQ state between on and off
